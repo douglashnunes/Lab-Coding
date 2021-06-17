@@ -2,7 +2,7 @@ Criar uma classe Produto
 Com os atributos
 
 codigo do tipo int
-descricao do tipo Sring
+descricao do tipo String
 valor do tipo double
 
 Em seguida criar uma classe
